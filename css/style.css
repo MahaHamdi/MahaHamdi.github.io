@@ -1,0 +1,12 @@
+.custom-nav{
+	background-color: #000;
+}
+
+.button-collapse{
+	display: block!important;
+}
+
+.side-nav .userView .circle{
+	height: :96px;
+	width: 96px; 
+}
